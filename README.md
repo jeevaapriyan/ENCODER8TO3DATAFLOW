@@ -46,11 +46,13 @@ Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/20a07751-e89e-47a8-bafb-e3f898c12a21" />
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/1368cf90-4c52-4570-bcc5-fd54213f4cc6" />
 
 **RESULTS**
-
+logic gates
 
 
 
